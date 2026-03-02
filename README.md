@@ -66,8 +66,8 @@ Building systems that combine:
 
 ## Connect
 
-Portfolio: https://yannickportfolio.onrender.com
-LinkedIn: https://www.linkedin.com/in/yannick-wild
+- Portfolio: https://yannickportfolio.onrender.com
+- LinkedIn: https://www.linkedin.com/in/yannick-wild
 
 <!--
 **yanowild/yanowild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
