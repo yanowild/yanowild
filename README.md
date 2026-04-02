@@ -3,9 +3,6 @@
 # Yannick Wild  
 **Information Systems Engineer**
 
-Complex systems deserve simple design.  
-I improve business processes by aligning operations with effective information systems.
-
 ---
 
 ## About
