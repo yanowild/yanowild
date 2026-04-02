@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-# Yannick Wild  
-**Information Systems Engineer**
+# Yannick Wild - Information Systems Engineer**
 
 ---
 
